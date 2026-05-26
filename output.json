@@ -1,0 +1,48 @@
+{
+  "phytosanitaire": [
+    "pesticide",
+    "herbicide",
+    "fungicide",
+    "insecticide",
+    "interdire",
+    "abroger",
+    "restriction",
+    "approbation",
+    "autorisation",
+    "résidu",
+    "toxicité",
+    "retrait",
+    "suspension",
+    "active substance",
+    "substance active"
+  ],
+  "certification": [
+    "certification",
+    "semence",
+    "variété",
+    "approbation",
+    "enregistrement",
+    "pureté",
+    "germination",
+    "passeport",
+    "transport",
+    "marquage",
+    "étiquetage",
+    "conformité",
+    "norme",
+    "qualité"
+  ],
+  "avoine": [
+    "avoine",
+    "oat",
+    "flocon",
+    "transformation",
+    "usine",
+    "production",
+    "industrie",
+    "exportation",
+    "importation",
+    "commerce",
+    "marché"
+  ]
+}
