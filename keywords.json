@@ -1,0 +1,35 @@
+{
+  "certification": [
+    "passeport",
+    "semence",
+    "certification",
+    "transport",
+    "exportation",
+    "variété",
+    "pureté",
+    "germination",
+    "conformité",
+    "marquage",
+    "étiquetage",
+    "norme",
+    "qualité",
+    "approbation",
+    "enregistrement",
+    "document",
+    "guide"
+  ],
+  "phytosanitaire": [
+    "pesticide",
+    "herbicide",
+    "fungicide",
+    "restriction",
+    "interdire",
+    "autorisation"
+  ],
+  "avoine": [
+    "avoine",
+    "oat",
+    "flocon",
+    "production"
+  ]
+}
